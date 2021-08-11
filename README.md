@@ -19,6 +19,6 @@ Skills: C , C++ , Python  , HTML , CSS , Git , Javascript , ReactJs
 React GIVE-AWAY \
  https://github.com/karukalatej/React-Giveaway
   
-Cowin Vaccine \
+Covid Vaccine \
  https://github.com/karukalatej/Covid_Vaccine
   
