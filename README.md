@@ -2,8 +2,8 @@
 
 Skills: C , C++ , Python  , HTML , CSS , Git , Javascript , ReactJs
 
-🔭 I’m currently studing in Dharmsinh Desai University \
-📫 How to reach me: tejreddy2022@gmail.com
+🔭 I’m currently looking for full time positions related to Data! \
+📫 How to reach me: tjreddyk@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/karukalatej )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@annonnymmouusse/)
 
